@@ -49,20 +49,20 @@ const arthurGuilherme = {
     },
     misc: ["git", "github", "vs code", "windows"]
   },
-  currentFocus: ["expandir network", "dominar mais linguagens", "aprimorar lógica de pro"],
+  currentFocus: ["expandir network", "dominar mais linguagens", "aprimorar lógica de programação"],
   funFact: "já fui para itália, e minha meta é ser programador na City Life"
 };
 
 arthurGuilherme.askMeAbout.forEach((topic) => {
   if (typeof topic === "string") {
-    console.log(`⚠️ Cuidado! Falou de "${topic}"? Não vou parar de falar! 🎤`);
+    console.log(`⚠️ cuidado! falou de "${topic}"? não vou parar de falar!`);
   }
 });
 
 if (arthurGuilherme.funFact === "realizado") {
   console.log("EU CONSEGUI 👏👏👏");
 } else {
-  console.log("A missão Itália ainda tá em progresso... 🇮🇹");
+  console.log("a missão itália ainda tá em progresso... 🇮🇹");
 }
 ```
 
@@ -70,4 +70,4 @@ if (arthurGuilherme.funFact === "realizado") {
 ![Repositório Destacado](https://github-readme-stats.vercel.app/api/pin/?username=guifigueireedo&repo=limpattack&theme=dracula)
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=guifigueireedo&layout=compact&theme=dracula)
 
-<img src="https://emojis.slackmojis.com/emojis/images/1720680363/94596/cat-high-five.gif?1720680363" width="60"> <em><b>gosto de trocar ideia com gente que também curte programação</b>, então se quiser trocar ideia, só chamar! 😊</em>
+<em><b>gosto de trocar ideia com gente que também curte programação</b>, então se quiser trocar ideia, só chamar! 😊</em> <img src="https://emojis.slackmojis.com/emojis/images/1720680363/94596/cat-high-five.gif?1720680363" width="60">
