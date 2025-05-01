@@ -1,4 +1,4 @@
-<h2><img src="https://emojis.slackmojis.com/emojis/images/1643514230/1972/star.gif?1643514230" width="40"/> hello world! me chamo arthur guilherme</h2>
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1687434009/66750/nerd_cat.png?1687434009" width="40"/> hello world! me chamo arthur guilherme</h2>
 <!-- <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"> -->
 <p><em>recife - pe | 18 anos <img src="https://emojis.slackmojis.com/emojis/images/1643517236/32742/umbreon.gif?1643517236" width="30"> 
 </em><br><em>estudante de ads (1º período) | futuro dev fullstack <img src="https://emojis.slackmojis.com/emojis/images/1643515705/17301/computer.gif?1643515705" width="30"> 
@@ -31,7 +31,7 @@ acessa meu linkedin, manda um email ou me segue nas redes ✉️
 ---
 
 # sobre mim:
-<img src="https://emojis.slackmojis.com/emojis/images/1730480150/103588/pulp_fiction.png?1730480150" width="70"> <img src="https://emojis.slackmojis.com/emojis/images/1739312288/114264/kendrick-say-drake.gif?1739312288" width="70"> <img src="https://emojis.slackmojis.com/emojis/images/1643516403/24426/drop_weights.gif?1643516403" width="70"> <img src="https://emojis.slackmojis.com/emojis/images/1643509984/45564/inter.png?1643509984" width="70"> <img src="https://emojis.slackmojis.com/emojis/images/1722597389/95624/sport-club-recife.png?1722597389" width="60">
+<img src="https://emojis.slackmojis.com/emojis/images/1643778704/51863/movie.gif?1643778704" width="70"> <img src="https://emojis.slackmojis.com/emojis/images/1739312288/114264/kendrick-say-drake.gif?1739312288" width="70"> <img src="https://emojis.slackmojis.com/emojis/images/1643515847/18624/lift_weights.gif?1643515847" width="70"> <img src="https://emojis.slackmojis.com/emojis/images/1643509984/45564/inter.png?1643509984" width="70"> <img src="https://emojis.slackmojis.com/emojis/images/1722597389/95624/sport-club-recife.png?1722597389" width="60">
 
 ```javascript
 const arthurGuilherme = {
@@ -50,11 +50,24 @@ const arthurGuilherme = {
     misc: ["git", "github", "vs code", "windows"]
   },
   currentFocus: ["expandir network", "dominar mais linguagens", "aprimorar lógica de pro"],
-  funFact: ""
+  funFact: "já fui para itália, e minha meta é ser programador na City Life"
 };
+
+arthurGuilherme.askMeAbout.forEach((topic) => {
+  if (typeof topic === "string") {
+    console.log(`⚠️ Cuidado! Falou de "${topic}"? Não vou parar de falar! 🎤`);
+  }
+});
+
+if (arthurGuilherme.funFact === "realizado") {
+  console.log("EU CONSEGUI 👏👏👏");
+} else {
+  console.log("A missão Itália ainda tá em progresso... 🇮🇹");
+}
 ```
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guifigueireedo&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guifigueireedo&layout=compact)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=guifigueireedo&show_icons=true&theme=dracula)
+![Repositório Destacado](https://github-readme-stats.vercel.app/api/pin/?username=guifigueireedo&repo=limpattack&theme=dracula)
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=guifigueireedo&layout=compact&theme=dracula)
 
 <img src="https://emojis.slackmojis.com/emojis/images/1720680363/94596/cat-high-five.gif?1720680363" width="60"> <em><b>gosto de trocar ideia com gente que também curte programação</b>, então se quiser trocar ideia, só chamar! 😊</em>
