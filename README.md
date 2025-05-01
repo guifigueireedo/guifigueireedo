@@ -1,20 +1,20 @@
-<h2><img src="https://emojis.slackmojis.com/emojis/images/1643514230/1972/star.gif?1643514230" width="40"/> hello world! me chamo arthur guilherme <img src="https://emojis.slackmojis.com/emojis/images/1643516100/21251/110.png?1643516100" width="35"></h2>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1643514230/1972/star.gif?1643514230" width="40"/> hello world! me chamo arthur guilherme</h2>
+<!-- <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"> -->
 <p><em>recife - pe | 18 anos <img src="https://emojis.slackmojis.com/emojis/images/1643517236/32742/umbreon.gif?1643517236" width="30"> 
 </em><br><em>estudante de ads (1º período) | futuro dev fullstack <img src="https://emojis.slackmojis.com/emojis/images/1643515705/17301/computer.gif?1643515705" width="30"> 
 </em></p>
 
 [![GitHub: guifigueireedo](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/guifigueireedo)
-[![LinkedIn: guifigueireedo](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guifigueireedo)
+[![LinkedIn: guifigueireedo](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-guilherme-703aa1357)
 [![Instagram: guifigueireedo](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/guifigueireedo)
-[![TikTok: guifigueireedo](https://img.shields.io/badge/TikTok-010101?style=flat-square&logo=tiktok&logoColor=white)](https://www.tiktok.com/@guifigueireedo)
+[![TikTok: guifigueireedo](https://img.shields.io/badge/TikTok-010101?style=flat-square&logo=tiktok&logoColor=white)](https://www.tiktok.com/@art.dev0)
 <!-- [![Site Pessoal](https://img.shields.io/badge/Site-Pessoal-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white)](https://seusite.com) -->
 
 ### 📫 vamo trocar uma ideia?
 
 acessa meu linkedin, manda um email ou me segue nas redes ✉️  
 **email:** arthur.gsf07@gmail.com  
-**linkedin:** https://www.linkedin.com/in/seulinkedin
+**linkedin:** https://www.linkedin.com/in/arthur-guilherme-703aa1357
 
 ---
 
@@ -30,13 +30,15 @@ acessa meu linkedin, manda um email ou me segue nas redes ✉️
 
 ---
 
-<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Sobre mim...
+# sobre mim:
+<img src="https://emojis.slackmojis.com/emojis/images/1730480150/103588/pulp_fiction.png?1730480150" width="70"> <img src="https://emojis.slackmojis.com/emojis/images/1739312288/114264/kendrick-say-drake.gif?1739312288" width="70"> <img src="https://emojis.slackmojis.com/emojis/images/1643516403/24426/drop_weights.gif?1643516403" width="70"> <img src="https://emojis.slackmojis.com/emojis/images/1643509984/45564/inter.png?1643509984" width="70"> <img src="https://emojis.slackmojis.com/emojis/images/1722597389/95624/sport-club-recife.png?1722597389" width="60">
 
 ```javascript
 const arthurGuilherme = {
   pronouns: "ele" | "dele",
   code: ["javascript", "python", "c", "html", "css"],
-  askMeAbout: ["músicas de rap/trap", "quentin tarantino", "costas e bíceps", "sport recife e internazionale milano"],
+  askMeAbout: ["kendrick lamar/travis scott", "quentin tarantino", "costas e bíceps", "sport recife e internazionale milano"],
+  languages: ["inglês (avançado)", "italiano (básico)"]
   technologies: {
     frontEnd: {
       html: ["html5 (avançado)", "css3 (avançado)"],
@@ -52,6 +54,7 @@ const arthurGuilherme = {
 };
 ```
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guifigueireedo&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guifigueireedo&layout=compact)
 
+<img src="https://emojis.slackmojis.com/emojis/images/1720680363/94596/cat-high-five.gif?1720680363" width="60"> <em><b>gosto de trocar ideia com gente que também curte programação</b>, então se quiser trocar ideia, só chamar! 😊</em>
