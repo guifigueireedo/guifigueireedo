@@ -20,7 +20,7 @@ acessa meu linkedin, manda um email ou me segue nas redes ✉️
 
 # 🧩 projetos
 
-### 🎬 LimpAttack (em desenvolvimento)
+### 🎬 LimpAttack (em aprimoramento)
 🔗 [repositório](https://github.com/guifigueireedo/limpattack)  
 📝 jogo em pygame focado na conscientização dos hábitos de higiene para crianças
 
@@ -36,33 +36,33 @@ acessa meu linkedin, manda um email ou me segue nas redes ✉️
 ```javascript
 const arthurGuilherme = {
   pronouns: "ele" | "dele",
-  code: ["javascript", "python", "c", "html", "css"],
-  askMeAbout: ["kendrick lamar/travis scott", "quentin tarantino", "costas e bíceps", "sport recife e internazionale milano"],
+  code: ["javascript", "python", "java", "html", "css"],
+  askMeAbout: ["kendrick lamar", "quentin tarantino", "costas e bíceps", "sport recife e internazionale milano"],
   languages: ["inglês (avançado)", "italiano (básico)"]
   technologies: {
     frontEnd: {
       html: ["html5 (avançado)", "css3 (avançado)"],
-      js: ["Tailwind (introduzido)"]
+      js: ["tailwind (introduzido)"]
     },
     backEnd: {
-      langs: ["mysql (avançado)" "python (iniciante)"]
+      langs: ["mysql (avançado)", "python (iniciante)", "java (iniciante)"]
     },
-    misc: ["git", "github", "vs code", "windows"]
+    misc: ["git", "github", "vs code", "windows", "packet tracer"]
   },
   currentFocus: ["expandir network", "dominar mais linguagens", "aprimorar lógica de programação"],
-  funFact: "já fui para itália, e minha meta é ser programador na City Life"
+  funFact: "já fui para itália, e minha meta é ser programador lá"
 };
 
 arthurGuilherme.askMeAbout.forEach((topic) => {
   if (typeof topic === "string") {
-    console.log(`⚠️ cuidado! falou de "${topic}"? não vou parar de falar!`);
+    console.log(`cuidado! falou de "${topic}"? não vou parar de falar!`);
   }
 });
 
 if (arthurGuilherme.funFact === "realizado") {
-  console.log("EU CONSEGUI 👏👏👏");
+  console.log("EU CONSEGUI");
 } else {
-  console.log("a missão itália ainda tá em progresso... 🇮🇹");
+  console.log("a missão itália ainda tá em progresso...");
 }
 ```
 
