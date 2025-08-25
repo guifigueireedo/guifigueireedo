@@ -1,7 +1,7 @@
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1687434009/66750/nerd_cat.png?1687434009" width="40"/> hello world! me chamo arthur guilherme</h2>
 <!-- <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"> -->
 <p><em>recife - pe | 18 anos <img src="https://emojis.slackmojis.com/emojis/images/1643517236/32742/umbreon.gif?1643517236" width="30"> 
-</em><br><em>estudante de ads (1º período) | futuro dev fullstack <img src="https://emojis.slackmojis.com/emojis/images/1643515705/17301/computer.gif?1643515705" width="30"> 
+</em><br><em>estudante de ads (2º período) | futuro dev backend <img src="https://emojis.slackmojis.com/emojis/images/1643515705/17301/computer.gif?1643515705" width="30"> 
 </em></p>
 
 [![GitHub: guifigueireedo](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/guifigueireedo)
