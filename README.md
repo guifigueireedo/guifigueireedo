@@ -28,7 +28,7 @@ acessa meu linkedin, manda um email ou me segue nas redes ✉️
 🔗 [repositório](https://github.com/guifigueireedo/matchup)  
 📝 sistema para auxiliar gerenciamento de futebol amador
 
-### 🐔 galinhada do chefão - python
+### 🐔 Galinhada do Chefão - python
 🔗 [repositório](https://github.com/guifigueireedo/galinhada-do-chefao)  
 📝 programa que foca no gerenciamento de um restaurante
 
