@@ -20,13 +20,17 @@ acessa meu linkedin, manda um email ou me segue nas redes ✉️
 
 # 🧩 projetos
 
-### 🎬 LimpAttack (em aprimoramento)
+### 🧼 LimpAttack (em aprimoramento) - python
 🔗 [repositório](https://github.com/guifigueireedo/limpattack)  
 📝 jogo em pygame focado na conscientização dos hábitos de higiene para crianças
 
-### 🧠 galinhada do chefão
+### ⚽ MatchUp (em andamento) - python
+🔗 [repositório](https://github.com/guifigueireedo/matchup)  
+📝 sistema para auxiliar gerenciamento de futebol amador
+
+### 🐔 galinhada do chefão - python
 🔗 [repositório](https://github.com/guifigueireedo/galinhada-do-chefao)  
-📝 programa em python que foca no gerenciamento de um restaurante
+📝 programa que foca no gerenciamento de um restaurante
 
 ---
 
