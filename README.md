@@ -67,7 +67,6 @@ if (arthurGuilherme.funFact === "realizado") {
 ```
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=guifigueireedo&show_icons=true&theme=dracula)
-![Repositório Destacado](https://github-readme-stats.vercel.app/api/pin/?username=guifigueireedo&repo=limpattack&theme=dracula)
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=guifigueireedo&layout=compact&theme=dracula)
 
 <em><b>gosto de trocar ideia com gente que também curte programação</b>, então se quiser trocar ideia, só chamar! 😊</em> <img src="https://emojis.slackmojis.com/emojis/images/1720680363/94596/cat-high-five.gif?1720680363" width="60">
