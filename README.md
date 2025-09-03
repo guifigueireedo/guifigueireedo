@@ -24,10 +24,6 @@ acessa meu linkedin, manda um email ou me segue nas redes ✉️
 🔗 [repositório](https://github.com/guifigueireedo/limpattack)  
 📝 jogo em pygame focado na conscientização dos hábitos de higiene para crianças
 
-### ⚽ MatchUp (em andamento) - python
-🔗 [repositório](https://github.com/guifigueireedo/matchup)  
-📝 sistema para auxiliar gerenciamento de futebol amador
-
 ### 🐔 Galinhada do Chefão - python
 🔗 [repositório](https://github.com/guifigueireedo/galinhada-do-chefao)  
 📝 programa que foca no gerenciamento de um restaurante
