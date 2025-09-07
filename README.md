@@ -14,7 +14,7 @@
 
 acessa meu linkedin, manda um email ou me segue nas redes ✉️  
 **email:** arthur.gsf07@gmail.com  
-**linkedin:** https://www.linkedin.com/in/arthur-guilherme-703aa1357
+**linkedin:** https://www.linkedin.com/in/guifigueireedo
 
 ---
 
