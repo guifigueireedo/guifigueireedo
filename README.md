@@ -45,7 +45,7 @@ const arthurGuilherme = {
       js: ["tailwind (introduzido)"]
     },
     backEnd: {
-      langs: ["mysql (avançado)", "python (iniciante)", "java (iniciante)"]
+      langs: ["mysql (avançado)", "python (intermediário)", "java (intermediário)"]
     },
     misc: ["git", "github", "vs code", "windows", "packet tracer"]
   },
