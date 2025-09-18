@@ -8,13 +8,13 @@
 [![LinkedIn: guifigueireedo](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-guilherme-703aa1357)
 [![Instagram: guifigueireedo](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/guifigueireedo)
 [![TikTok: guifigueireedo](https://img.shields.io/badge/TikTok-010101?style=flat-square&logo=tiktok&logoColor=white)](https://www.tiktok.com/@art.dev0)
-<!-- [![Site Pessoal](https://img.shields.io/badge/Site-Pessoal-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white)](https://seusite.com) -->
+[![Site Pessoal](https://img.shields.io/badge/Site-Pessoal-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white)](https://guifigueireedo-portfolio.netlify.app)
 
 ### 📫 vamo trocar uma ideia?
-
-acessa meu linkedin, manda um email ou me segue nas redes ✉️  
+  
 **email:** arthur.gsf07@gmail.com  
-**linkedin:** https://www.linkedin.com/in/guifigueireedo
+**linkedin:** [https://www.linkedin.com/in/guifigueireedo](https://www.linkedin.com/in/guifigueireedo)
+**portifólio:** [https://guifigueireedo-portfolio.netlify.app](https://guifigueireedo-portfolio.netlify.app)
 
 ---
 
