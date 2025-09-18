@@ -11,9 +11,12 @@
 [![Site Pessoal](https://img.shields.io/badge/Site-Pessoal-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white)](https://guifigueireedo-portfolio.netlify.app)
 
 ### 📫 vamo trocar uma ideia?
+
   
 **email:** arthur.gsf07@gmail.com  
+
 **linkedin:** [https://www.linkedin.com/in/guifigueireedo](https://www.linkedin.com/in/guifigueireedo)
+
 **portifólio:** [https://guifigueireedo-portfolio.netlify.app](https://guifigueireedo-portfolio.netlify.app)
 
 ---
