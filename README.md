@@ -31,6 +31,10 @@
 🔗 [repositório](https://github.com/guifigueireedo/petshop-manager)  
 📝 programa que foca no gerenciamento de um petshop
 
+### 🏎️ Grid Oracle (em andamento) - python
+🔗 [repositório](https://github.com/guifigueireedo/grid-oracle)  
+📝 sistema que analisa dados históricos e prevê o resultado da próxima corrida de f1
+
 ---
 
 # sobre mim:
