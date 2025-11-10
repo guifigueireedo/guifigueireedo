@@ -42,24 +42,9 @@
   </a>
 </div>
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=25&color=F729ED&center=true&vCenter=true&width=500&lines=Projects" alt="Projects">
-</div>
-<div align="center">
-  <a href="https://github.com/guifigueireedo/limpattack" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=guifigueireedo&repo=limpattack&theme=synthwave&show_icons=true" alt="LimpAttack">
-  </a>
-  <a href="https://github.com/guifigueireedo/petshop-manager" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=guifigueireedo&repo=petshop-manager&theme=synthwave&show_icons=true" alt="PetShop Manager">
-  </a>
-  <a href="https://github.com/guifigueireedo/grid-oracle" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=guifigueireedo&repo=grid-oracle&theme=synthwave&show_icons=true" alt="Grid Oracle">
-  </a>
-</div>
-<div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=25&color=F729ED&center=true&vCenter=true&width=500&lines=Stats" alt="Stats">
 </div>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=guifigueireedo&theme=synthwave&show_icons=true&hide_border=true&count_private=true" alt="Stats">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=guifigueireedo&theme=synthwave&hide_border=true" alt="Streak">
 </div>
 <div align="center">
