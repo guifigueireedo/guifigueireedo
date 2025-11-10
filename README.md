@@ -24,13 +24,13 @@
   <img src="https://komarev.com/ghpvc/?username=guifigueireedo&color=F729ED&style=for-the-badge" alt="Profile Views">
 </div>
   <h4 align="center">
-    I'm a System Development Student at [UniFAFIRE](https://unifafire.edu.br/), currently on 2nd period. Focused on Backend techs like Java and Python, my main goal is create solutions with my knowledge and make the world a better place with it! Still dream to the day where I create an idea that is so good that it changes how the world goes. I'll try manifest that.
+    I'm a System Development Student at <a href="https://unifafire.edu.br" target="_blank">UniFAFIRE</a>, currently on 2nd period. Focused on Backend techs like Java and Python, my main goal is create solutions with my knowledge and make the world a better place with it! Still dream to the day where I create an idea that is so good that it changes how the world goes. I'll try manifest that.
   </h4>
   <h4 align="center">
-    I also completed a Technical Course of Information Technology at [SENAC](https://www.pe.senac.br/unidades/paulista/) in 2024, learning PC Maintenance, PC Network and Development of PC Applications. That made me realise that i really want to be in this area, specifically on programming. Don't have work experience but I do have a lot of learning!
+    I also completed a Technical Course of Information Technology at <a href="https://www.pe.senac.br/unidades/paulista" target="_blank">SENAC</a> in 2024, learning PC Maintenance, PC Network and Development of PC Applications. That made me realise that i really want to be in this area, specifically on programming. Don't have work experience but I do have a lot of learning!
   </h4>
   <h4 align="center">
-    My most recent achievement was being part of the 4.0 Globo Challenge at the biggest tech event on Brazil, [REC'n'Play](https://recnplay.pe/), where me and my team worked on a AI Content Creator, which used LLM an Visual Analysis. 
+    My most recent achievement was being part of the 4.0 Globo Challenge at the biggest tech event on Brazil, <a href="https://recnplay.pe" target="_blank">REC'n'Play</a>, where me and my team worked on a AI Content Creator, which used LLM an Visual Analysis. 
   </h4>
 </div>
 <div align="center">
