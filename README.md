@@ -1,80 +1,66 @@
-<h2><img src="https://emojis.slackmojis.com/emojis/images/1687434009/66750/nerd_cat.png?1687434009" width="40"/> hello world! me chamo arthur guilherme</h2>
-<!-- <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"> -->
-<p><em>recife - pe | 18 anos <img src="https://emojis.slackmojis.com/emojis/images/1643517236/32742/umbreon.gif?1643517236" width="30"> 
-</em><br><em>estudante de ads (2º período) | futuro dev backend <img src="https://emojis.slackmojis.com/emojis/images/1643515705/17301/computer.gif?1643515705" width="30"> 
-</em></p>
+<p align="center">
+  <img src="https://media.giphy.com/media/gH1jGsCnQBiFHWMFzh/giphy.gif" width="500">
+</p>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=25&pause=1000&color=F729ED&center=true&vCenter=true&width=1000&lines=Hello+world%2C;I'm+Arthur+Figueiredo!" alt="Typing SVG">
+  </a>
+</div>
+<div align="center">
+  <a href="https://www.linkedin.com/in/guifigueireedo" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn">
+  </a>
+  <a href="https://instagram.com/guifigueireedo" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram&theme=dark" alt="Instagram">
+  </a>
+  <a href="mailto:arthur.gsf07@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Email">
+  </a>
+  <a href="https://guifigueireedo-portfolio.netlify.app" target="_blank">
+    <img src="https://skillicons.dev/icons?i=netlify&theme=dark" alt="Portfólio (Netlify)">
+  </a>
+</div>
+  <h4 align="center">
+    I'm a System Development Student at UniFAFIRE, currently on 2nd period. Focused on Backend techs like Java and Python, my main goal is create solutions with my knowledge and make the world a better place with it! Still dream to the day where I create an idea that is so good that it changes how the world goes. I'll try manifest that.
+  </h4>
+  <h4 align="center">
+    I also completed a Technical Course of Information Technology at SENAC in 2024, learning PC Maintenance, PC Network and Development of PC Applications. That made me realise that i really want to be in this area, specifically on programming. Don't have work experience but I do have a lot of learning!
+  </h4>
+  <h4 align="center">
+    My most recent achievement was being part of the 4.0 Globo Challenge at the biggest tech event on Brazil, REC'n'Play, where me and my team worked on a AI Content Creator, which used LLM an Visual Analysis. 
+  </h4>
+</div>
+<h2 align="center"><em>Techs</em></h2>
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,java,mysql,mongodb,html,css,js,git,figma&theme=dark" />
+  </a>
+</div>
+<h2 align="center"><em>Projects</em></h2>
+<div align="center">
+  <a href="https://github.com/guifigueireedo/limpattack" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=guifigueireedo&repo=limpattack&theme=tokyonight&show_icons=true" alt="LimpAttack">
+  </a>
+  <a href="https://github.com/guifigueireedo/petshop-manager" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=guifigueireedo&repo=petshop-manager&theme=tokyonight&show_icons=true" alt="PetShop Manager">
+  </a>
+  <a href="https://github.com/guifigueireedo/grid-oracle" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=guifigueireedo&repo=grid-oracle&theme=tokyonight&show_icons=true" alt="Grid Oracle">
+  </a>
+</div>
+<h2 align="center"><em>Stats</em></h2>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=guifigueireedo&theme=synthwave&show_icons=true&hide_border=true&count_private=true" alt="Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=guifigueireedo&theme=synthwave&hide_border=true" alt="Streak">
+</div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guifigueireedo&theme=synthwave&show_icons=true&hide_border=true&layout=compact" alt="Top Langs">
+</div>
 
-[![GitHub: guifigueireedo](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/guifigueireedo)
-[![LinkedIn: guifigueireedo](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-guilherme-703aa1357)
-[![Instagram: guifigueireedo](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/guifigueireedo)
-[![TikTok: guifigueireedo](https://img.shields.io/badge/TikTok-010101?style=flat-square&logo=tiktok&logoColor=white)](https://www.tiktok.com/@art.dev0)
-[![Site Pessoal](https://img.shields.io/badge/Site-Pessoal-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white)](https://guifigueireedo-portfolio.netlify.app)
-
-### 📫 vamo trocar uma ideia?
-
-  
-**email:** arthur.gsf07@gmail.com  
-
-**linkedin:** [https://www.linkedin.com/in/guifigueireedo](https://www.linkedin.com/in/guifigueireedo)
-
-**portifólio:** [https://guifigueireedo-portfolio.netlify.app](https://guifigueireedo-portfolio.netlify.app)
-
----
-
-# 🧩 projetos
-
-### 🧼 LimpAttack (em aprimoramento) - python
-🔗 [repositório](https://github.com/guifigueireedo/limpattack)  
-📝 jogo em pygame focado na conscientização dos hábitos de higiene para crianças
-
-### 🐕 PetShop Manager - java
-🔗 [repositório](https://github.com/guifigueireedo/petshop-manager)  
-📝 programa que foca no gerenciamento de um petshop
-
-### 🏎️ Grid Oracle (em andamento) - python
-🔗 [repositório](https://github.com/guifigueireedo/grid-oracle)  
-📝 sistema que analisa dados históricos e prevê o resultado da próxima corrida de f1
-
----
-
-# sobre mim:
-<img src="https://emojis.slackmojis.com/emojis/images/1643778704/51863/movie.gif?1643778704" width="70"> <img src="https://emojis.slackmojis.com/emojis/images/1739312288/114264/kendrick-say-drake.gif?1739312288" width="70"> <img src="https://emojis.slackmojis.com/emojis/images/1643515847/18624/lift_weights.gif?1643515847" width="70"> <img src="https://emojis.slackmojis.com/emojis/images/1643509984/45564/inter.png?1643509984" width="70"> <img src="https://emojis.slackmojis.com/emojis/images/1722597389/95624/sport-club-recife.png?1722597389" width="60">
-
-```javascript
-const arthurGuilherme = {
-  pronouns: "ele" | "dele",
-  code: ["javascript", "python", "java", "html", "css"],
-  askMeAbout: ["kendrick lamar", "quentin tarantino", "costas e bíceps", "sport recife e internazionale milano"],
-  languages: ["inglês (avançado)", "italiano (básico)"]
-  technologies: {
-    frontEnd: {
-      html: ["html5 (avançado)", "css3 (avançado)"],
-      js: ["tailwind (introduzido)"]
-    },
-    backEnd: {
-      langs: ["mysql (avançado)", "python (intermediário)", "java (intermediário)"]
-    },
-    misc: ["git", "github", "vs code", "windows", "packet tracer"]
-  },
-  currentFocus: ["expandir network", "dominar mais linguagens", "aprimorar lógica de programação"],
-  funFact: "já fui para itália, e minha meta é ser programador lá"
-};
-
-arthurGuilherme.askMeAbout.forEach((topic) => {
-  if (typeof topic === "string") {
-    console.log(`cuidado! falou de "${topic}"? não vou parar de falar!`);
-  }
-});
-
-if (arthurGuilherme.funFact === "realizado") {
-  console.log("EU CONSEGUI");
-} else {
-  console.log("a missão itália ainda tá em progresso...");
-}
-```
-
-<!-- ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=guifigueireedo&show_icons=true&theme=dracula)
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=guifigueireedo&layout=compact&theme=dracula) -->
-![guifigueireedo's Streak](https://github-readme-streak-stats.herokuapp.com/?user=guifigueireedo&theme=vue-dark&hide_border=true)
-
-<em><b>gosto de trocar ideia com gente que também curte programação</b>, então se quiser trocar ideia, só chamar! 😊</em> <img src="https://emojis.slackmojis.com/emojis/images/1720680363/94596/cat-high-five.gif?1720680363" width="60">
+<h2 align="center"><em>More About Me</em></h2>
+<h4 align="center">
+  I love every form of sport, mainly football, basketball and F1. Really big fan of Sport Recife, Internazionale Milano, Milwaulkee Bucks and Ferrari. None of them makes me happy at all. I also love playing football but I'm horrendous at basketball.
+</h4>
+<h4 align="center">
+  Can't live without music and coffee. A hard expresso with Kendrick Lamar spitting some TPAB on my ears is all I need in my morning. I also like a lot watching movies/series/animes, wich I highlight Attack On Titan, Vinland Saga, Andor and How I Met Your Mother.
+</h4>
