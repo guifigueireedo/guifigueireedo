@@ -37,7 +37,17 @@
   </a>
 </div>
 <h2 align="center"><em>Projects</em></h2>
-
+<div align="center">
+  <a href="https://github.com/guifigueireedo/limpattack" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=guifigueireedo&repo=limpattack&theme=synthwave&show_icons=true" alt="LimpAttack">
+  </a>
+  <a href="https://github.com/guifigueireedo/petshop-manager" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=guifigueireedo&repo=petshop-manager&theme=synthwave&show_icons=true" alt="PetShop Manager">
+  </a>
+  <a href="https://github.com/guifigueireedo/grid-oracle" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=guifigueireedo&repo=grid-oracle&theme=synthwave&show_icons=true" alt="Grid Oracle">
+  </a>
+</div>
 <h2 align="center"><em>Stats</em></h2>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=guifigueireedo&theme=synthwave&show_icons=true&hide_border=true&count_private=true" alt="Stats">
