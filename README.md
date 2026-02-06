@@ -57,5 +57,5 @@
   I love every form of sport, mainly football, basketball and F1. Really big fan of Sport Recife, Internazionale Milano, Milwaulkee Bucks and Ferrari. None of them makes me happy at all. I also love playing football but I'm horrendous at basketball.
 </h4>
 <h4 align="center">
-  Can't live without music and coffee. A hard expresso with Kendrick Lamar spitting some TPAB on my ears is all I need in my morning. I also like a lot watching movies/series/animes, wich I highlight Attack On Titan, Vinland Saga, Andor and How I Met Your Mother.
+  Can't live without music and coffee. A hard expresso with PLayboi Carti spittin some Music on my ears is all I need in my morning. I also like a lot watching movies/series/animes, wich I highlight Kill Bill, Andor and Attack on Titan.
 </h4>
