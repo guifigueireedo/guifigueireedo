@@ -1,55 +1,39 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/gH1jGsCnQBiFHWMFzh/giphy.gif" width="500">
-</p>
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=25&pause=1000&color=F729ED&center=true&vCenter=true&width=1000&lines=Hello+world%2C;I'm+Arthur+Figueiredo!" alt="Typing SVG">
-  </a>
-</div>
-<div align="center">
-  <a href="https://www.linkedin.com/in/guifigueireedo" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn">
-  </a>
-  <a href="https://instagram.com/guifigueireedo" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram&theme=dark" alt="Instagram">
-  </a>
-  <a href="mailto:arthur.gsf07@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Email">
-  </a>
-  <a href="https://arthur-figueiredo.netlify.app" target="_blank">
-    <img src="https://skillicons.dev/icons?i=netlify&theme=dark" alt="Portfólio (Netlify)">
-  </a>
-</div>
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=guifigueireedo&color=F729ED&style=for-the-badge" alt="Profile Views">
-</div>
-  <h4 align="center">
-    I'm a System Development Student at <a href="https://unifafire.edu.br" target="_blank">UniFAFIRE</a>, currently on 3rd period. Focused on Backend techs like Java and Python, my main goal is create solutions with my knowledge and make the world a better place with it! Still dream to the day where I create an idea that is so good that it changes how the world goes. I'll try manifest that.
-  </h4>
-  <h4 align="center">
-    I also completed a Technical Course of Information Technology at <a href="https://www.pe.senac.br/unidades/paulista" target="_blank">SENAC</a> in 2024, learning PC Maintenance, PC Network and Development of PC Applications. That made me realise that i really want to be in this area, specifically on programming. Don't have work experience but I do have a lot of learning!
-  </h4>
-  <h4 align="center">
-    My most recent achievement was being part of the 4.0 Globo Challenge at the biggest tech event on Brazil, <a href="https://recnplay.pe" target="_blank">REC'n'Play</a>, where me and my team worked on a AI Content Creator, which used LLM an Visual Analysis. 
-  </h4>
-</div>
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=25&color=F729ED&center=true&vCenter=true&width=500&lines=Techs" alt="Techs">
-</div>
+# arthur figueiredo
+> systems analysis student @ unifafire | olinda, br
+---
+
+### techs
 <div align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,java,mysql,mongodb,html,css,js,git,figma&theme=dark" />
   </a>
 </div>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guifigueireedo&theme=synthwave&show_icons=true&hide_border=true&layout=compact" alt="Top Langs">
-</div>
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=25&color=F729ED&center=true&vCenter=true&width=500&lines=More+About+Me" alt="More About Me">
-</div>
-<h4 align="center">
-  I love every form of sport, mainly football, basketball and F1. Really big fan of Sport Recife, Internazionale Milano, Milwaulkee Bucks and Ferrari. None of them makes me happy at all. I also love playing football but I'm horrendous at basketball.
-</h4>
-<h4 align="center">
-  Can't live without music and coffee. A hard expresso with PLayboi Carti spittin some Music on my ears is all I need in my morning. I also like a lot watching movies/series/animes, wich I highlight Kill Bill, Andor and Attack on Titan.
-</h4>
+
+### ✦ featured work
+
+**[logsentinel](https://github.com/guifigueireedo/logsentinel)**
+`the flagship`
+an intelligent, asynchronous log hub designed for real-time error analysis and automated resolution suggestions. 
+*tech: fastapi • postgresql • redis • groq cloud*
+
+**[grid-oracle](https://github.com/guifigueireedo/grid-oracle)**
+`f1 mlops predictor`
+100% automated race forecasting system. it predicts results and self-retrains based on real-time weather and performance data.
+*tech: python • llama 3 • openf1 api*
+
+**[limpattack](https://github.com/guifigueireedo/limpattack)**
+`conscious arcade`
+an arcade adventure developed to merge classic gaming mechanics with environmental awareness.
+*tech: pygame • python*
+
+---
+
+### ✦ outside the code
+- big shaker for sport recife, internazionale milano and ferrari
+- fan of hunter x hunter, star wars and kill bill
+- coffee.
+
+---
+
+### ✦ connect
+[linkedin](https://www.linkedin.com/in/guifigueireedo/) / [instagram](https://instagram.com/arthur.script) / [portfolio](https://arthur-figueiredo.netlify.app)
