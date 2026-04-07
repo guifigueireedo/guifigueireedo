@@ -16,7 +16,7 @@
   <a href="mailto:arthur.gsf07@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Email">
   </a>
-  <a href="https://guifigueireedo-portfolio.netlify.app" target="_blank">
+  <a href="https://arthur-figueiredo.netlify.app" target="_blank">
     <img src="https://skillicons.dev/icons?i=netlify&theme=dark" alt="Portfólio (Netlify)">
   </a>
 </div>
@@ -24,7 +24,7 @@
   <img src="https://komarev.com/ghpvc/?username=guifigueireedo&color=F729ED&style=for-the-badge" alt="Profile Views">
 </div>
   <h4 align="center">
-    I'm a System Development Student at <a href="https://unifafire.edu.br" target="_blank">UniFAFIRE</a>, currently on 2nd period. Focused on Backend techs like Java and Python, my main goal is create solutions with my knowledge and make the world a better place with it! Still dream to the day where I create an idea that is so good that it changes how the world goes. I'll try manifest that.
+    I'm a System Development Student at <a href="https://unifafire.edu.br" target="_blank">UniFAFIRE</a>, currently on 3rd period. Focused on Backend techs like Java and Python, my main goal is create solutions with my knowledge and make the world a better place with it! Still dream to the day where I create an idea that is so good that it changes how the world goes. I'll try manifest that.
   </h4>
   <h4 align="center">
     I also completed a Technical Course of Information Technology at <a href="https://www.pe.senac.br/unidades/paulista" target="_blank">SENAC</a> in 2024, learning PC Maintenance, PC Network and Development of PC Applications. That made me realise that i really want to be in this area, specifically on programming. Don't have work experience but I do have a lot of learning!
@@ -40,12 +40,6 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,java,mysql,mongodb,html,css,js,git,figma&theme=dark" />
   </a>
-</div>
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=25&color=F729ED&center=true&vCenter=true&width=500&lines=Stats" alt="Stats">
-</div>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=guifigueireedo&theme=synthwave&hide_border=true" alt="Streak">
 </div>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guifigueireedo&theme=synthwave&show_icons=true&hide_border=true&layout=compact" alt="Top Langs">
