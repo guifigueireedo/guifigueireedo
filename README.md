@@ -2,7 +2,7 @@
 > systems analysis student @ unifafire | olinda, br
 ---
 
-### techs
+### ✦ techs
 <div align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,java,mysql,mongodb,html,css,js,git,figma&theme=dark" />
