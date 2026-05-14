@@ -11,10 +11,10 @@
 
 ### ✦ featured work
 
-**[logsentinel](https://github.com/guifigueireedo/logsentinel)**
-`the flagship`
-an intelligent, asynchronous log hub designed for real-time error analysis and automated resolution suggestions. 
-*tech: fastapi • postgresql • redis • groq cloud*
+**[aether](https://github.com/guifigueireedo/aether)**
+`the holy graal`
+a personal organizer SaaS, with minimalist, modern and objective interface. it contains various ways to organize your life 
+*tech: next.js • tailwind css • postgresql*
 
 **[grid-oracle](https://github.com/guifigueireedo/grid-oracle)**
 `f1 mlops predictor`
